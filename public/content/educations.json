@@ -1,0 +1,46 @@
+[
+  {
+    "school": "Northeastern University, Boston",
+    "schoolURL": "https://www.northeastern.edu/",
+    "schoolLogo": "/images/northeastern.png",
+    "schoolLocation": "",
+    "degree": "MS",
+    "major": "Data Science",
+    "minor": "",
+    "date": "2021 - 2023 Dec (Expected)",
+    "description": "Master program at Khoury College at Northeastern. Learn & build a lot of stuff. Play a lot of basketball here. Selected Course: Unsupervised and Supervised Machine Learning, Information Retrieval, Robotics Science and System, Scalable Distributed System, Algorithm and Data Structure, Data Mining",
+    "activitiesandsocieties": [
+      "Asian Basketball Team",
+      "NU Robotics"
+    ]
+  },
+  {
+    "school": "Northern Illinois University (Joint Program)",
+    "schoolURL": "https://www.niu.edu/index.shtml",
+    "schoolLogo": "/images/niu.png",
+    "schoolLocation": "Dekalb, IL",
+    "degree": "BS",
+    "major": "Statistics",
+    "minor": "",
+    "date": "2017 - 2021",
+    "description": "Completed Bachelor of Science in statistics GPA of 3.91. Learn a lot of math here, and dabble into the field of data science. This is a 2+2 joint program with AUFE below. Hi USA",
+    "activitiesandsocieties": [
+      "Dean's List"
+    ]
+  },
+  {
+    "school": "Anhui University of Finance and Economics (Joint Program)",
+    "schoolURL": "http://jjxyen.aufe.edu.cn/",
+    "schoolLogo": "/images/aufe.png",
+    "schoolLocation": "Anhui, China",
+    "degree": "BS",
+    "major": "Statistics",
+    "minor": "",
+    "date": "2017 - 2021",
+    "description": "Completed Bachelor of Science in statistics. Leader of the math college basketball team.",
+    "activitiesandsocieties": [
+      "AUFE Basketball Team",
+      "PE scholarship"
+    ]
+  }
+]

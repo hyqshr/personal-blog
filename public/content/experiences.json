@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Founding Engineer",
+    "company": "Jreamscape LLC",
+    "companyURL": "http://www.ilistengpt.com/",
+    "companyLogo": "/images/Jreamscape.jpg",
+    "location": "Dover, DE",
+    "type": "Intern",
+    "date": "June 2023 - Present",
+    "description": "At Jreamscape, I am a full-stack builder of our meeting notes app that transfer real-time speech into texts for LLM summarization. Meanwhile I lead a team of 4 intern engineer to build a TikTok style video generator.",
+    "skills": [
+      "LangChain",
+      "Machine Learning",
+      "React",
+      "Azure TTS",
+      "Cloudflare"
+    ]
+  },
+  {
+    "title": "Software Engineer",
+    "company": "Instawork",
+    "companyURL": "https://www.instawork.com/",
+    "companyLogo": "/images/instawork.jpg",
+    "location": "Boston",
+    "type": "Intern",
+    "date": "June 2022 - Dec 2022",
+    "description": "Full-stack developer of mobile app that serve as a platform for finding & posting flexible job. Won first prize in Instawork Hackathon developing a Slack Bot for company’s internal search engine (indexed Slack chat   history and internal company documents). Dabble into a bunch of differnet technologies here, Docker, Iterable, Twillio... Great jourjey.",
+    "skills": [
+      "Django",
+      "Hyperview",
+      "AWS",
+      "Docker",
+      "SQL"
+    ]
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Pingan Tech",
+    "companyURL": "https://tech.pingan.com/",
+    "companyLogo": "/images/pingan.png",
+    "location": "Shenzhen, China",
+    "type": "Intern",
+    "date": "March 2021 - June 2021",
+    "description": "At Pingan Tech, I built two ML pipeline including a audio classification pipeline and a disease predicttion pipeline.",
+    "skills": [
+      "Linear Algebra",
+      "Statistics",
+      "Differential Equations",
+      "Vector Calculus",
+      "Mathematical Modeling"
+    ]
+  }
+]

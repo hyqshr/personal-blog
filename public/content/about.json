@@ -1,0 +1,21 @@
+{
+  "name": "Yiqiu Huang",
+  "designation": "Student",
+  "company": {
+    "name": "Khoury College of Computer Sciences at Northeastern University",
+    "url": "https://www.khoury.northeastern.edu/"
+  },
+  "description": "I am a research assistant at the Center for Computational and Data Sciences (CCDS) at Independent University, Bangladesh (IUB), actively involved in cutting-edge research projects in artificial intelligence, machine learning, and data science. My focus includes computer vision, group theory, manifold learning, and geometric machine learning, with a deep passion for developing innovative solutions that benefit sectors like astronomy, healthcare, and education. \nIn addition to my research responsibilities, I am actively involved in teaching undergraduate students, mentoring, and instructing various courses at IUB. My enthusiasm for learning new data science topics and conducting research drives me to make significant contributions and positively impact others' learning experiences. I am constantly striving to expand my knowledge and expertise in the field, with the ultimate goal of making a meaningful impact through my work.",
+  "socialLinks": [
+    {
+      "name": "github",
+      "url": "https://github.com/hyqshr"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://linkedin.com/in/huangyiqiu"
+    }
+  ],
+  "resume": "files/Resume.pdf",
+  "note": "Seeking opportunities in full stack software engineer/machine learning engineer."
+}
