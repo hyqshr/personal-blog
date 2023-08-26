@@ -1,0 +1,137 @@
+---
+title: "How to set up Typora + Picgo + Github notes environment"
+tags:
+  - title: Typora 
+  - title: Picgo 
+  - title: Github 
+  - title: Notes
+  - title: Image
+categories:
+  - title: Notes
+author:
+  name: Yiqiu Huang
+  designation: Research Assistant
+  url: https://huangyiqiu.com
+  avatar:
+    url: user.png
+    alt: Yiqiu Huang
+description: "How to set up Typora + Picgo + Github notes environment"
+seoDescription: "How to set up Typora + Picgo + Github notes environment"
+covers:
+  - url: content/dockerizing-jupyter-notebook/dockerize-jupyter.jpg
+    alt: Exploring Gaussian Distribution Cover
+status: published
+publishedAt: 2023-08-26
+---
+
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261412127.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+Set up Typora + Picgo + Github notes environment
+
+***Typora***: A markdown app that can easily write markdown notes
+
+***Picgo***:  Every picture you copied into typora, picgo will send it to github (after a little configuration)
+
+***Github***: Where we host our images. We will create a repo like that:
+
+
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261412127.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+shout out to: https://zhuanlan.zhihu.com/p/168729465
+
+## Step 1: Create a new Github Repository
+
+We use Github to host our images. Maybe make it public so other people can see your images. The name, description doesn't matter.
+
+## Step 2: Set up GitHub token
+
+Click your Github profile -> then setting:
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261415731.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+Then click developer setting:
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261416331.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+Then, click personal access tokens and then generate new tokens: Chooes classic in here.
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261417660.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+Then, give this token a name. I set expiration to no expiration since I'm lazy to config it again soon.
+
+Also make sure you check repo.This is the ***only*** thing that we checked. Then, click generate token!
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261419780.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+It should look like this so far, ***then copy and keep the token***!
+
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261421781.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+
+
+## Step 3: Download & config in PicGo
+
+If you are windows, download `.exe`. If you are using mac, download `.dmg`.
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261423711.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+## Step 4: Typora setting
+
+Open typora, click perference setting -> Image:
+
+<img
+  src="https://raw.githubusercontent.com/hyqshr/MD_picgo/main/202308261425511.png"
+  alt="Dockerize Jupyter Notebook"
+  sizes="100vw"
+  width="100%"
+  height="auto"
+/>
+
+Make sure you check the same thing. Then, test upload option.
+
+## Step 5: Try
+
+Now, copy a image into typora, you should see that image is pushed to your GitHub repo. Congrats! Let's write more useless fun things together.

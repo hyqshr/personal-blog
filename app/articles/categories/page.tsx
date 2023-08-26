@@ -46,15 +46,15 @@ export async function generateMetadata({
     keywords: [...Object.keys(categories)],
     openGraph: {
       type: "website",
-      title: "Article Categories - Mir Sazzat Hossain",
+      title: "Article Categories - Yiqiu Huang - 黄逸秋",
       description:
         "This page contains all the categories of articles available on this website.",
       url: `${server}/articles/categories`,
-      siteName: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+      siteName: "Yiqiu Huang 黄逸秋- Passionate Builder of things",
       images: [
         {
           url: `${server}/images/user.png`,
-          alt: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+          alt: "Yiqiu Huang 黄逸秋 - Passionate Builder of things",
           width: 1200,
           height: 630,
         },
@@ -65,13 +65,13 @@ export async function generateMetadata({
       card: "summary_large_image",
       site: "@mir_sazzat",
       creator: "@mir_sazzat",
-      title: "Article Categories - Mir Sazzat Hossain",
+      title: "Article Categories - Yiqiu Huang 黄逸秋",
       description:
         "This page contains all the categories of articles available on this website.",
       images: [
         {
           url: `${server}/images/user.png`,
-          alt: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+          alt: "Yiqiu Huang - 黄逸秋",
           width: 1200,
           height: 630,
         },
